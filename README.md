@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
+    <p>
+         <h1> Welcome to Syharipf's Profile! </h1>
+    </p>
+</div> 
 
-<!--
-**Syharipf/Syharipf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Table for Banner & whoami-->
+<table>
+  <tr>
+    <!-- Banner-->
+    <td valign="top" align="left" style="padding-right: 50px" width="45%;">
+      <img src="Assets/Room.gif" height="100%"/>
+    </td>
+    <!-- About Me -->
+    <td valign="top" align="center" width="500px;">
+      <h2>Whoami 🧑‍💻</h2>
+      <p>
+        I’m Syarif, a Software Engineering student who enjoys working on clean, functional,
+        and efficient digital experiences. I spend most of my time exploring web development,
+        customizing Linux systems, and digging into the basics of cybersecurity. I like building
+        streamlined workflows—whether through tweaking distros, optimizing editors, or experimenting
+        with different development setups. I focus best with subtle background noise and usually work
+        in deep-work cycles with micro breaks. Outside of tech, I enjoy gaming, watching anime,
+        photography, and tweaking systems just for the fun of breaking and fixing things.
+      </p>
+    </td>
+  </tr>
+</table>
