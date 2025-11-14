@@ -13,7 +13,7 @@
       <img src="Assets/Room.gif" height="100%"/>
     </td>
     <!-- About Me -->
-    <td valign="top" align="center" width="500px;">
+    <td valign="middle" align="center" width="500px;">
       <h2>Whoami 🧑‍💻</h2>
       <p>
         I’m Syarif, a Software Engineering student who enjoys working on clean, functional,
