@@ -15,7 +15,7 @@
         <!-- About Me -->
         <td valign="top" align="center" width="500px;">
             <h2>Whoami 🧑‍💻</h2>
-            <p style="font-size: 16px;">
+            <p style="font-size: 14px;">
                 I’m Syarif, a Software Engineering student who enjoys working on clean, functional,
                 and efficient digital experiences. I spend most of my time exploring web development,
                 customizing Linux systems, and digging into the basics of cybersecurity. I like building
