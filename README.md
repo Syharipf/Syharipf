@@ -109,25 +109,46 @@
     </tr>
 </table>
 
-## 📊 GitHub Metrics
+## 📊 Dashboard
 
-### 🌐 Main Metrics
-![Main Metrics](./metrics.svg)
+<table width="100%" style="table-layout: fixed; border-spacing: 15px 15px;">
+  <tr>
+    <!-- Main Metrics (besar) -->
+    <td colspan="2" align="center">
+      <h3>🌐 Main Metrics</h3>
+      <img src="./metrics.svg" width="90%">
+    </td>
+    <!-- Leetcode -->
+    <td align="center">
+      <h3>🏆 Leetcode</h3>
+      <img src="./metrics.leetcode.svg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <!-- Languages -->
+    <td align="center">
+      <h3>🧠 Languages</h3>
+      <img src="./metrics.languages.svg" width="100%">
+    </td>
+    <!-- Isocalendar -->
+    <td align="center">
+      <h3>📅 Isocalendar</h3>
+      <img src="./metrics.isocalendar.svg" width="100%">
+    </td>
+    <!-- Contributors -->
+    <td align="center">
+      <h3>👥 Contributors</h3>
+      <img src="./metrics.people.svg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <!-- Top Language / Fun -->
+    <td colspan="3" align="center">
+      <h3>✨ Top Language</h3>
+      <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" width="200px">
+    </td>
+  </tr>
+</table>
 
-### 📅 Full Year Isocalendar
-![Isocalendar](./metrics.isocalendar.svg)
 
-### 🧠 Languages Overview
-![Languages](./metrics.languages.svg)
 
-### 🏆 Leetcode
-![Achievements](./metrics.leetcode.svg)
-
-### ⏱ Habits & Productivity
-![Habits](./metrics.anilist.svg)
-
-### 🔥 Activity Graph
-![Activity](./metrics.music.svg)
-
-### 👥 Contributors / People
-![People](./metrics.people.svg)
