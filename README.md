@@ -120,17 +120,14 @@
 ### 🧠 Languages Overview
 ![Languages](./metrics.languages.svg)
 
-### 🏆 Achievements
-![Achievements](./metrics.achievements.svg)
+### 🏆 Leetcode
+![Achievements](./metrics.leetcode.svg)
 
 ### ⏱ Habits & Productivity
-![Habits](./metrics.habits.svg)
+![Habits](./metrics.anilist.svg)
 
 ### 🔥 Activity Graph
-![Activity](./metrics.activity.svg)
+![Activity](./metrics.music.svg)
 
 ### 👥 Contributors / People
 ![People](./metrics.people.svg)
-
-### ⭐ Stargazers
-![Stars](./metrics.stars.svg)
