@@ -41,7 +41,6 @@
     </tr>
 </table>
 
----
 
 ## 🛠️ Technology & Tools
 <table width="100%">
@@ -109,46 +108,31 @@
     </tr>
 </table>
 
+#
+<!-- Dashboard -->
 ## 📊 Dashboard
-
-<table width="100%" style="table-layout: fixed; border-spacing: 15px 15px;">
+<table width="100%" style="table-layout: fixed; border-spacing: 10px 10px;">
   <tr>
-    <!-- Main Metrics (besar) -->
-    <td colspan="2" align="center">
-      <h3>🌐 Main Metrics</h3>
-      <img src="./metrics.svg" width="90%">
+    <td colspan="2" align="center" width="55%">
+      <img src="./metrics.svg" width="95%" alt="GitHub Main Metrics">
     </td>
-    <!-- Leetcode -->
-    <td align="center">
+    <td align="center" width="45%">
       <h3>🏆 Leetcode</h3>
-      <img src="./metrics.leetcode.svg" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <!-- Languages -->
-    <td align="center">
-      <h3>🧠 Languages</h3>
-      <img src="./metrics.languages.svg" width="100%">
-    </td>
-    <!-- Isocalendar -->
-    <td align="center">
-      <h3>📅 Isocalendar</h3>
-      <img src="./metrics.isocalendar.svg" width="100%">
-    </td>
-    <!-- Contributors -->
-    <td align="center">
-      <h3>👥 Contributors</h3>
-      <img src="./metrics.people.svg" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <!-- Top Language / Fun -->
-    <td colspan="3" align="center">
-      <h3>✨ Top Language</h3>
-      <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" width="200px">
+      <img src="./metrics.leetcode.svg" width="95%" alt="Leetcode Metrics">
     </td>
   </tr>
 </table>
 
+<!-- Languages -->
+<img src="./metrics.languages.svg" width="95%" alt="Top Languages Metrics">
+
+<!-- Isocalendar -->
+<img src="./metrics.isocalendar.svg" width="95%" alt="Isocalendar Metrics">
+
+<!-- Cotributor -->
+<div align="center">
+    <h3>👥 Contributors</h3>
+    <img src="./metrics.people.svg" width="95%" alt="Contributors Metrics">
+</div>
 
 
