@@ -15,7 +15,7 @@
         </td>
         <!-- About Me -->
         <td valign="top" align="center" width="55%">
-            <h2>🧑‍💻 Whoami</h2>
+            <h2>Whoami 🧑‍💻</h2>
             <p align="justify" style="font-size: 14px; line-height: 1.5;">
                 I’m Syarif, a Software Engineering student who enjoys working on clean, functional,
                 and efficient digital experiences. I spend most of my time exploring web development,
@@ -108,3 +108,29 @@
         </td>
     </tr>
 </table>
+
+## 📊 GitHub Metrics
+
+### 🌐 Main Metrics
+![Main Metrics](./metrics.svg)
+
+### 📅 Full Year Isocalendar
+![Isocalendar](./metrics.isocalendar.svg)
+
+### 🧠 Languages Overview
+![Languages](./metrics.languages.svg)
+
+### 🏆 Achievements
+![Achievements](./metrics.achievements.svg)
+
+### ⏱ Habits & Productivity
+![Habits](./metrics.habits.svg)
+
+### 🔥 Activity Graph
+![Activity](./metrics.activity.svg)
+
+### 👥 Contributors / People
+![People](./metrics.people.svg)
+
+### ⭐ Stargazers
+![Stars](./metrics.stars.svg)
