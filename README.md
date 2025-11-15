@@ -1,10 +1,13 @@
 <!-- Header -->
-<div align="center">
-    <h1>Welcome to Syharipf's Profile! 👋</h1>
-</div>
+<h2 align="center">Welcome to Syharipf’s Profile! ⚡</h2>
+<p align="center">
+  A place where I write code, customize systems, break stuff (sometimes),  
+  and learn something new every day.
+</p>
+
 
 <!-- Table for Banner & whoami-->
-<table>
+<table align="center">
     <tr>
         <!-- Banner-->
         <td valign="top" align="left" style="padding-right: 40px;" width="45%">
@@ -12,7 +15,7 @@
         </td>
         <!-- About Me -->
         <td valign="top" align="center" width="55%">
-            <h2>Whoami 🧑‍💻</h2>
+            <h2>🧑‍💻 Whoami</h2>
             <p align="justify" style="font-size: 14px; line-height: 1.5;">
                 I’m Syarif, a Software Engineering student who enjoys working on clean, functional,
                 and efficient digital experiences. I spend most of my time exploring web development,
