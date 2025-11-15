@@ -1,3 +1,4 @@
+
 <!-- Header -->
 <div align="center">
     <p>
@@ -52,4 +53,62 @@
             </a>
         </td>
     </tr>
+</table>
+
+<!-- Tech Stack-->
+## Technology & Tools 🚀
+<table width="100%">
+  <tr>
+    <th width="50%">Owned</th>
+    <th width="50%">Learning</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <!-- Programming Language -->
+      <img src="https://skillicons.dev/icons?i=cpp" />
+      <img src="https://skillicons.dev/icons?i=c" />
+      <img src="https://skillicons.dev/icons?i=cs" />
+      <img src="https://skillicons.dev/icons?i=dart" />
+      <img src="https://skillicons.dev/icons?i=go" />
+      <img src="https://skillicons.dev/icons?i=java" />
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=r" />
+      <!-- Frameworks -->
+      <img src="https://skillicons.dev/icons?i=flutter" />
+      <img src="https://skillicons.dev/icons?i=spring" />
+      <img src="https://skillicons.dev/icons?i=unity" />
+      <!-- Tools -->
+      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=github" />
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" />
+      <img src="https://skillicons.dev/icons?i=eclipse" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" />
+      <!-- OS & Environment -->
+      <img src="https://skillicons.dev/icons?i=bash" />
+      <img src="https://skillicons.dev/icons?i=redhat" />
+            <img src="https://skillicons.dev/icons?i=linux" />
+      <!-- Design -->
+      <img src="https://skillicons.dev/icons?i=figma" />
+    </td>
+    <td valign="top">
+      <!-- Programming Languages -->
+      <img src="https://skillicons.dev/icons?i=dart" />
+      <img src="https://skillicons.dev/icons?i=python" />
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <img src="https://skillicons.dev/icons?i=php" />
+      <img src="https://skillicons.dev/icons?i=javascript" />
+      <!-- Tools -->
+      <img src="https://skillicons.dev/icons?i=neovim" />
+      <img src="https://skillicons.dev/icons?i=vim" />
+      <img src="https://skillicons.dev/icons?i=powershell" />
+      <!-- OS & Environment -->
+      <img src="https://skillicons.dev/icons?i=bash" />
+      <img src="https://skillicons.dev/icons?i=linux" />
+      <img src="https://skillicons.dev/icons?i=arch" />
+      <!-- Others -->
+      <img src="https://skillicons.dev/icons?i=wordpress" />
+    </td>
+  </tr>
 </table>
